@@ -1,0 +1,360 @@
+body
+{
+  font-family: sans-serif;
+  /*background-size: cover;*/
+}
+
+h1{
+  color:#27ae60 ;
+  text-align: center;
+}
+
+.image
+{
+  float: left;
+    width: 33.33%;
+    height: 700px;
+    padding: 0;
+}
+.signupform
+{
+  width: 300px;
+  box-shadow: 0 0 3pc 0 rgba(red, green, blue, alpha);
+  background:rgb(18, 19, 19);
+  padding: 20px;
+  padding-top: -20px;
+  margin: 6% auto 0;
+  margin-bottom: -70px;
+  text-align: center;
+  opacity: 0.8;
+  border-radius: 15pt;
+}
+.inputbox
+{
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10 px 0;
+  width: 90%;
+  border: 1px solid #999;
+}
+
+.loginform
+{
+  width: 300px;
+  box-shadow: 0 0 3pc 0 rgba(red, green, blue, alpha);
+  background:rgb(18, 19, 19);
+  padding: 20px;
+  margin: 6% auto 0;
+  margin-bottom: -90px;
+  text-align: center;
+  opacity: 0.8;
+  border-radius: 15pt;
+}
+.conf
+{
+  color: seashell;
+}
+
+.conf a
+{
+  color: yellow;
+}
+.message
+{
+  color: red;
+}
+.navbar ul li{
+  float: left;
+  display: inline-block;
+  word-spacing: 50px;
+  color: #fff;
+  text-align: center;
+  padding: 0px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  line-height: -70px;
+}
+.navbar p{
+  float: left;
+  display: inline-block;
+  word-spacing: 0px;
+  color: #fff;
+  text-align: center;
+  padding: 0px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-top: 9px;
+
+}
+.rounded-circle
+{
+  margin-top: 7px;
+  margin-right: 15px; 
+}
+.navbar ul li a{
+  
+  color: white;
+
+  text-decoration: none;
+  height: 40px;
+  font-size: 15px;
+  margin-top: 5px;
+
+  }
+  .navbar{
+    margin-top: -95px;
+    margin-bottom: 50px;
+    float: right;
+  }
+  header
+  {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.9;
+  }
+  .logo
+  {
+    padding-left: 30px;
+    padding-bottom: 40px;
+    margin-top: 20px;
+  }
+  .index-intro
+  {
+    height: 90px;
+    width: 270px;
+    background-color: green;
+    opacity: 1;
+    margin-top: 70px;
+    margin-left: 850px;
+    border-radius: 15pt;
+    margin-bottom: 30px;
+    padding: 1%;
+  }
+  .index-intro h1
+  {
+    
+    text-align: center;
+    color: white;
+  }
+  .dindex-intro
+  {
+    height: 90px;
+    width: 270px;
+    background-color: green;
+    opacity: 1;
+    margin-top: 30px;
+    margin-left: 850px;
+    border-radius: 15pt;
+    margin-bottom: 30px;
+    padding: 1%;
+  }
+  .dindex-intro h1
+  {
+    
+    text-align: center;
+    color: white;
+  }
+ 
+  
+  .box1
+  {
+    height: 150px;
+    width: 250px;
+    background-color: black;
+    opacity: 0.8;
+    margin-top: 2%;
+    line-height: -10px;
+    float: left;
+    margin-left: 180px;
+    border-radius: 15pt;
+
+  }
+  
+  .box2
+  {
+    height: 150px;
+    width: 300px;
+    background-color: black;
+    opacity: 0.8;
+    margin-top: 2%;
+    line-height: -10px;
+    float: left;
+    margin-left: 150px;
+    border-radius: 15pt;
+
+  }
+  
+  .box3
+  {
+    height: 150px;
+    width: 280px;
+    background-color: black;
+    opacity: 0.8;
+    margin-top: 2%;
+    line-height: -10px;
+    float: left;
+    margin-left: 180px;
+    border-radius: 15pt;
+
+  }
+
+  .box4
+  {
+    height: 150px;
+    width: 280px;
+    background-color: black;
+    opacity: 0.8;
+    margin-top: 2%;
+    line-height: -10px;
+    float: left;
+    margin-left: 180px;
+    border-radius: 15pt;
+
+  }
+  .dbox1
+  {
+    height: 150px;
+    width: 250px;
+    background-color: black;
+    opacity: 0.8;
+    margin-top: 2%;
+    line-height: -10px;
+    float: left;
+    margin-left: 400px;
+    border-radius: 15pt;
+
+  }
+  
+  .dbox2
+  {
+    height: 150px;
+    width: 300px;
+    background-color: black;
+    opacity: 0.8;
+    margin-top: 2%;
+    line-height: -10px;
+    float: left;
+    margin-left: 150px;
+    border-radius: 15pt;
+
+  }
+  
+  .dbox3
+  {
+    height: 150px;
+    width: 280px;
+    background-color: black;
+    opacity: 0.8;
+    margin-top: 2%;
+    line-height: -10px;
+    float: left;
+    margin-left: 180px;
+    border-radius: 15pt;
+
+  }
+
+  .box1 h3
+  {
+    text-align: center;
+    line-height: 150px;
+    color: white;
+  }
+  .box2 h3
+  {
+    text-align: center;
+    line-height: 150px;
+    color: white;
+    text-decoration: none;
+  }
+  .box3 h3
+  {
+    text-align: center;
+    line-height: 150px;
+    color: white;
+  }
+  .box4 h3
+  {
+    text-align: center;
+    line-height: 150px;
+    color: white;
+  }
+  .dbox1 h3
+  {
+    text-align: center;
+    line-height: 150px;
+    color: white;
+  }
+  .dbox2 h3
+  {
+    text-align: center;
+    line-height: 150px;
+    color: white;
+    text-decoration: none;
+  }
+  .dbox3 h3
+  {
+    text-align: center;
+    line-height: 150px;
+    color: white;
+  }
+  .box1 a
+  {
+    text-decoration: none;
+    color: white;
+  }
+  .box2 a
+  {
+    text-decoration: none;
+    color: white;
+  }
+  .box3 a
+  {
+    text-decoration: none;
+    color: white;
+  }
+  .box4 a
+  {
+    text-decoration: none;
+    color: white;
+  }
+  .index-footer
+  {
+    height: 90px;
+    width: 100%;
+    margin-top: 477px;
+    background-color: black;
+  }
+    
+
+   .index-footer h3
+  {
+    float: left;
+    color: lightgrey;
+    font-size: 20px;
+    padding-right: 100px;
+    }
+
+    .home-footer
+  {
+    height: 90px;
+    width: 100%;
+    margin-top: 739px;
+    background-color: black;
+  }
+    
+
+   .home-footer h3
+  {
+    float: left;
+    color: lightgrey;
+    font-size: 20px;
+    padding-right: 100px;
+
+  }
+
+    .report
+  {
+    margin-top: 250px;
+    margin-left: 750px;
+  }
